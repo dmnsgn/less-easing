@@ -9,7 +9,7 @@ $ npm install less-easing --save
 
 ## Usage
 
-```css
+```less
 @import "../node_modules/less-easing/_easings.less";
 
 .element {
