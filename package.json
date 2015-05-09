@@ -1,7 +1,7 @@
 {
   "name": "less-easing",
   "main": "_easings.less",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easing variables for less",
   "repository": {
     "type": "git",
